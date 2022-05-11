@@ -2,4 +2,5 @@
   (lib (name "Beaglebone_black_p8")(type "KiCad")(uri "${KIPRJMOD}/custom_lib/Beaglebone_black_p8.kicad_sym")(options "")(descr ""))
   (lib (name "Beaglebone_black_p9")(type "KiCad")(uri "${KIPRJMOD}/custom_lib/Beaglebone_black_p9.kicad_sym")(options "")(descr ""))
   (lib (name "pwr_BeagleBone")(type "Legacy")(uri "${KIPRJMOD}/custom_lib/pwr_BeagleBone.lib")(options "")(descr ""))
+  (lib (name "r_pack_eeprom")(type "KiCad")(uri "${KIPRJMOD}/custom_lib/r_pack_eeprom.kicad_sym")(options "")(descr ""))
 )
