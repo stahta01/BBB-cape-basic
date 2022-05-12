@@ -526,7 +526,7 @@
 
   (footprint "Package_DIP:DIP-14_W7.62mm_Socket_LongPads" (layer "F.Cu")
     (tedit 5A02E8C5) (tstamp 896a7dcb-5890-41ad-92db-d5ee271dec6d)
-    (at 125.1701 45.2974)
+    (at 122.9701 45.2974)
     (descr "14-lead though-hole mounted DIP package, row spacing 7.62 mm (300 mils), Socket, LongPads")
     (tags "THT DIP DIL PDIP 2.54mm 7.62mm 300mil Socket LongPads")
     (property "Sheetfile" "basic-bbb-cape.kicad_sch")
